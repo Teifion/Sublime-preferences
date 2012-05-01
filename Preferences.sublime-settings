@@ -1,0 +1,58 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Teifion.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.graffle",
+		"Icon\r"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
+	"font_face": "panic sans",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"scroll_speed": 1.2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"word_wrap": true,
+	"open_files_in_new_window": false
+}
