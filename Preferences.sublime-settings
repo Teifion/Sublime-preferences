@@ -1,9 +1,21 @@
 {
+	"added_words":
+	[
+		"Banoffee"
+	],
 	"auto_complete_commit_on_tab": true,
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Teifion.tmTheme",
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/FreshCut.tmTheme",
+	"color_scheme afterglow": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"color_scheme fc": "Packages/User/FreshCut (SL).tmTheme",
+	"color_scheme material": "Packages/Material Color Scheme/sublime/material-light.tmTheme",
+	"color_scheme seti": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"color_scheme soda": "Packages/User/Espresso Soda.tmTheme",
+	"color_scheme soda dark": "Packages/Theme - Soda/Soda Dark.sublime-theme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"fffont_face": "ubuntu mono",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -25,8 +37,7 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.graffle",
-		"Icon\r"
+		"*.graffle"
 	],
 	"folder_exclude_patterns":
 	[
@@ -36,23 +47,36 @@
 		"CVS",
 		"__pycache__"
 	],
-	"font_face": "panic sans",
+	"font_face": "dejavu sans mono",
 	"font_options":
 	[
-		"no_round"
 	],
-	"font_size": 14.0,
+	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SublimeCodeIntel",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
-	"line_padding_bottom": 0,
+	"itg_small_tabs": true,
+	"line_padding_bottom": 1,
 	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
 	"scroll_speed": 1.2,
+	"soda_classic_tabs": false,
+	"tabs_medium": true,
+	"tabs_padding_small": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"theme afterglow": "Afterglow.sublime-theme",
+	"theme flatland": "Flatland.sublime-theme",
+	"theme material": "Material-Theme.sublime-theme",
+	"theme seti": "Seti.sublime-theme",
+	"theme soda": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
-	"word_wrap": true,
-	"open_files_in_new_window": false
+	"ttheme": "itg.flat.dark.sublime-theme",
+	"word_wrap": true
 }
